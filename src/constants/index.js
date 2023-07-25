@@ -3,12 +3,13 @@ import {
   carrent,
   creator,
   css,
-  docker,
+  expo,
   figma,
   git,
   guesty,
   html,
   javascript,
+  jira,
   jobit,
   koombea,
   mobile,
@@ -16,12 +17,11 @@ import {
   nodejs,
   pendo,
   reactjs,
-  redux,
-  tailwind,
-  threejs,
   tripguide,
   typescript,
+  vue,
   web,
+  zustand,
 } from '../assets';
 
 export const navLinks = [
@@ -80,12 +80,16 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
+    name: "Expo",
+    icon: expo,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
+    name: "Zustand",
+    icon: zustand,
+  },
+  {
+    name: "Vue JS",
+    icon: vue,
   },
   {
     name: "Node JS",
@@ -96,10 +100,6 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
-  },
-  {
     name: "git",
     icon: git,
   },
@@ -108,8 +108,8 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "jira",
+    icon: jira,
   },
 ];
 
