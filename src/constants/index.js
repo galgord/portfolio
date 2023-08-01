@@ -112,16 +112,16 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Technical Training Manager | PS | CSM",
-    company_name: "Guesty",
-    icon: guesty,
-    iconBg: "#383E56",
-    date: "June 2018 - April 2020",
+    title: "Senior React Native Developer",
+    company_name: "Koombea",
+    icon: koombea,
+    iconBg: "#00343C",
+    date: "August 2022 - Present",
     points: [
-      "Troubleshoot technical problems where they impede the customer’s ability to use the system effectively",
-      "Understand the customer business and technical needs to optimize configuration and recommend best practice solutions",
-      "Create training materials and processes for future employees.",
-      "Develop best practices and Onboarding materials to improve the customer onboarding experience"
+      "Develop Features/Bugfixes/Improvements for Projects following the Mobile Development Process and Best Practices",
+      "Support the sales process by delivering requested technical data (Estimates, Product Discovery)",
+      "Mentor and support other developers in the team",
+      "Participate and support projects according to the Project Management Process",
     ],
   },
   {
@@ -138,16 +138,16 @@ const experiences = [
     ],
   },
   {
-    title: "Senior React Native Developer",
-    company_name: "Koombea",
-    icon: koombea,
-    iconBg: "#00343C",
-    date: "August 2022 - Present",
+    title: "Technical Training Manager | PS | CSM",
+    company_name: "Guesty",
+    icon: guesty,
+    iconBg: "#383E56",
+    date: "June 2018 - April 2020",
     points: [
-      "Develop Features/Bugfixes/Improvements for Projects following the Mobile Development Process and Best Practices",
-      "Support the sales process by delivering requested technical data (Estimates, Product Discovery)",
-      "Mentor and support other developers in the team",
-      "Participate and support projects according to the Project Management Process",
+      "Troubleshoot technical problems where they impede the customer’s ability to use the system effectively",
+      "Understand the customer business and technical needs to optimize configuration and recommend best practice solutions",
+      "Create training materials and processes for future employees.",
+      "Develop best practices and Onboarding materials to improve the customer onboarding experience"
     ],
   },
 ];
